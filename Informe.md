@@ -1,0 +1,16 @@
+tiempo_maximo
+intensidad_maxima
+intensidad_minima
+tiempo_valle
+intensidad_valle
+sparks_amplitud
+TTP
+sparks_tiempo_pico50
+sp_tau
+TTP50
+fullWidth
+(Î”F/F0)/Î”Tmax
+fullDuration
+width
+high
+flag
